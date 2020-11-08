@@ -10,3 +10,16 @@ Little JavaScript Library for recieving votes from discord-botlist.eu
 3. Fill out the config.json
 4. Type ```$ npm install``` in the project folder
 5. Type ```$ npm start```
+
+## Incoming Webhook Body Example
+```json
+{ voter_id: '622784776234991626', bot: '493066387183632387' }
+```
+
+## Example config.json
+```json
+{
+    "bot_id": "622784776234991626",
+    "token": "NDkzMDY2Mzg3MTgzNjMyMzg3.Xkasesrd.thfjzZp9B7-BnQetXP6f9s",
+    "webhook_url": "http://localhost:80/recieve_votes/dbl_eu"
+}```
