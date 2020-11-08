@@ -1,0 +1,26 @@
+{
+  "name": "discordbotlist-eu-votes",
+  "version": "1.0.0",
+  "description": "Little JavaScript Library for recieving votes from discord-botlist.eu ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricePascal/discord-botlist-votes-js.git"
+  },
+  "keywords": [
+    "discord-botlist.eu"
+  ],
+  "author": "MauricePascal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauricePascal/discord-botlist-votes-js/issues"
+  },
+  "homepage": "https://github.com/MauricePascal/discord-botlist-votes-js#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "https": "^1.0.0"
+  }
+}

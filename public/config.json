@@ -1,0 +1,9 @@
+{
+    "bot_id": "",
+    "token": "",
+    "webhook": {
+        "hostname": "",
+        "port": "",
+        "path": ""
+    }
+}
