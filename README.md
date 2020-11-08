@@ -22,4 +22,5 @@ Little JavaScript Library for recieving votes from discord-botlist.eu
     "bot_id": "622784776234991626",
     "token": "NDkzMDY2Mzg3MTgzNjMyMzg3.Xkasesrd.thfjzZp9B7-BnQetXP6f9s",
     "webhook_url": "http://localhost:80/recieve_votes/dbl_eu"
-}```
+}
+```
