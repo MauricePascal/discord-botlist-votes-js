@@ -14,8 +14,8 @@ Little JavaScript Library for recieving votes from discord-botlist.eu
 ## Incoming Webhook Body Example
 ```json
 { 
-    "voter_id": '622784776234991626', 
-    "bot": '493066387183632387' 
+    "voter_id": "622784776234991626", 
+    "bot": "493066387183632387"
 }
 ```
 
